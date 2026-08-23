@@ -43,4 +43,4 @@ This ensures that all assets are in place before the release becomes immutable, 
 
 To learn how to enable immutable releases for your repository or organization, see [AUTOTITLE](/code-security/how-tos/secure-your-supply-chain/establish-provenance-and-integrity/prevent-release-changes).
 
-To learn how to ensure a release and local assets have not been changed, see [AUTOTITLE](/code-security/how-tos/secure-your-supply-chain/secure-your-dependencies/verify-release-integrity).
+To learn how to ensure a release and local assets have not been changed, see [AUTOTITLE](/code-security/how-tos/sec
